@@ -23,10 +23,6 @@
 <img src= "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" width="70" height="30"/>
 <img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width="90" height="30"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jemoo1060&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jemoo1060&layout=compact&theme=onedark)
-
-
 <!--
 <!--
 **Jemoo1060/Jemoo1060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
