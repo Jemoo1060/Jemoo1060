@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 <div align=center>
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=220&section=header&text=Welcome&fontSize=80)
@@ -27,6 +28,9 @@
 <img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width="90" height="30"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jemoo1060&layout=compact&theme=onedark)
+   
+ # 📬 : Contacts
+   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jemoo1060.tistory.com/)](https://jemoo1060.tistory.com/)
  
 
 <!--
