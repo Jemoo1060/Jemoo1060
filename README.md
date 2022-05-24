@@ -31,6 +31,8 @@
    
  # 📬 : Contacts
    [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jemoo1060.tistory.com/)](https://jemoo1060.tistory.com/)
+      [![Tech Blog Badge](http://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wpan1060@gmail.com)](mailto:wpan1060@gmail.com)
+   
  
 
 <!--
