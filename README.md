@@ -3,6 +3,13 @@
 <div align=center>
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=220&section=header&text=Welcome&fontSize=80)
+ 
+ 백엔드 개발자 정제무입니다. 
+
+ Java & Spring-boot 를 공부하고 있습니다 
+ 
+ 끊임없이 성장하는 개발자가 되기위해서 학습한 내용들을 정리해 놓고 있는 기술 블로그를 운영하고 있습니다.
+ 
 
 <h3>🛠 Tech Stack 🛠</h> 
 <p></p>
