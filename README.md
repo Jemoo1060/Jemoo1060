@@ -10,12 +10,9 @@
  
  끊임없이 성장하는 개발자가 되기위해서 학습한 내용들을 정리해 놓고 있는 기술 블로그를 운영하고 있습니다.
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jemoo1060&layout=compact&theme=onedark)
-   
  # 📬 : Contacts
    [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jemoo1060.tistory.com/)](https://jemoo1060.tistory.com/)
       [![Tech Blog Badge](http://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wpan1060@gmail.com)](mailto:wpan1060@gmail.com)
-   
 
 <h3>🛠 Tech Stack 🛠</h> 
 <p></p>
@@ -40,6 +37,9 @@
 <img src= "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" width="70" height="30"/>
 <img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width="90" height="30"/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jemoo1060&layout=compact&theme=onedark)
+
+   
  
 
 <!--
