@@ -37,9 +37,19 @@
 <img src= "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" width="70" height="30"/>
 <img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width="90" height="30"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jemoo1060&layout=compact&theme=onedark)
+ 
+## Github Stats  
+<table><tr><td valign="top" width="50%">
 
-   
+<img src="https://github-readme-stats.vercel.app/api?username=Jemoo1060&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jemoo1060&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
  
 
 <!--
